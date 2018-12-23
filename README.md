@@ -4,7 +4,7 @@
 A Word Guess command-line game using constructor functions.
 
     
-      # dont forget to install inquirer and raandom-words npm
+      # dont forget to install inquirer and random-words npm
        # npm install inquirer
         #npm instal random-words
    Randomly selects a word and uses the `Word` constructor to store it
